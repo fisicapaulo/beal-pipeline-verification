@@ -1,0 +1,15 @@
+stat,value
+n_total,81003
+after_modcong,81003
+after_lte,81003
+after_pinza,0
+after_barrier,81003
+Xi,1.05
+C0,0.0
+kappa,0.98
+Phi0,0.0
+H_star_raw,0.0
+H_star,6.0
+Xi_eff,1.019387755102041
+kappa_eff,0.98
+denom_eff,0.0009999999999998899
